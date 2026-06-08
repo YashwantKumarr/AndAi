@@ -1,0 +1,12 @@
+[
+  {"name": "Alice Chen", "email": "alice@tech.com", "department": "Engineering", "salary": 95000},
+  {"name": "Bob Smith", "email": "bob@tech.com", "department": "HR", "salary": 65000},
+  {"name": "Carlos Ruiz", "email": "carlos@tech.com", "department": "Sales", "salary": 80000},
+  {"name": "Diana Prince", "email": "diana@tech.com", "department": "Executive", "salary": 150000},
+  {"name": "Evan Wright", "email": "evan@tech.com", "department": "Marketing", "salary": 72000},
+  {"name": "Fiona Gallagher", "email": "fiona@tech.com", "department": "Engineering", "salary": 92000},
+  {"name": "George King", "email": "george@tech.com", "department": "Finance", "salary": 88000},
+  {"name": "Hannah Abbott", "email": "hannah@tech.com", "department": "Support", "salary": 55000},
+  {"name": "Ian Malcolm", "email": "ian@tech.com", "department": "R&D", "salary": 110000},
+  {"name": "Julia Roberts", "email": "julia@tech.com", "department": "Sales", "salary": 85000}
+]
