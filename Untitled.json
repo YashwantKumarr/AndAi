@@ -1,0 +1,50 @@
+﻿{
+  "name": "Untitled",
+  "type": "SHARED",
+  "summary": "",
+  "description": "",
+  "tags": [],
+  "author": "YASHWANT KUMAR",
+  "categories": [],
+  "pieces": [
+    "@activepieces/piece-schedule"
+  ],
+  "status": "PUBLISHED",
+  "blogUrl": "",
+  "metadata": null,
+  "flows": [
+    {
+      "displayName": "Untitled",
+      "trigger": {
+        "name": "trigger",
+        "valid": true,
+        "displayName": "Every Day",
+        "type": "PIECE_TRIGGER",
+        "settings": {
+          "propertySettings": {
+            "timezone": {
+              "type": "MANUAL"
+            },
+            "hour_of_the_day": {
+              "type": "MANUAL"
+            },
+            "run_on_weekends": {
+              "type": "MANUAL"
+            }
+          },
+          "pieceName": "@activepieces/piece-schedule",
+          "pieceVersion": "~0.1.17",
+          "input": {
+            "timezone": "Asia/Kolkata",
+            "hour_of_the_day": 12,
+            "run_on_weekends": true
+          },
+          "sampleData": {},
+          "triggerName": "every_day"
+        }
+      },
+      "valid": true,
+      "schemaVersion": "13"
+    }
+  ]
+}
